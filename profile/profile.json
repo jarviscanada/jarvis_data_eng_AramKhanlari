@@ -34,7 +34,7 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari",
   "highlighted_projects": [
     {
-      "description": "Developed theoretical bounds and practical algorithms for efficient message dissemination in highly connected networks. Implemented simulations using Python, Pandas, and NetworkX, validated algorithmic performance across graph classes, and created data visualizations. Published findings in the Discrete Applied Mathematics Journal and completed as a Master's thesis.",
+      "description": "Developed theoretical bounds and practical algorithms for efficient message dissemination in highly connected networks. Implemented simulations using Python, Pandas, and NetworkX, validated algorithmic performance across graph classes, and created data visualizations. Published findings in the Discrete Applied Mathematics Journal ([here](https://www.sciencedirect.com/science/article/pii/S0166218X25006493)) and completed as a Master's thesis.([here](https://spectrum.library.concordia.ca/id/eprint/992648/1/Khanlari_MCompSc_F2023.pdf))",
       "name": "Broadcasting in Highly Connected Graphs"
     },
     {
@@ -42,13 +42,13 @@
       "name": "Machine Learning Tools for Musical Harmonization"
     },
     {
-      "description": "Applied Ant Colony Optimization to solve Traveling Salesman and shortest-path problems. Implemented pheromone update rules, heuristic scoring, and convergence criteria using Python, NumPy, and NetworkX. Produced performance plots in Jupyter.",
+      "description": "Applied Ant Colony Optimization to solve Traveling Salesman and shortest-path problems. Implemented network structures and distributed ants as agents. Defined pheromone update rules, heuristic scoring, and convergence criteria using Python, NumPy, and NetworkX. Produced performance plots and data visuals in Jupyter.",
       "name": "Ant Colony Optimization for Routing"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Developed a Linux-based resource monitoring system on CentOS to collect CPU, memory, and disk usage metrics using Bash/Shell scripts and crontab. Containerized a PostgreSQL RDBMS using Docker to store host data and implemented analytical SQL queries for usage reporting and cluster health diagnostics. Followed a simplified SDLC to design, implement, test, and deploy the solution.",
+      "description": "Developed a Linux-based resource monitoring system on Rocky to collect CPU, memory, and disk usage metrics using Bash/Shell scripts and crontab. Containerized a PostgreSQL RDBMS using Docker to store host data and implemented analytical SQL queries for usage reporting and cluster health diagnostics. Followed a simplified SDLC to design, implement, test, and deploy the solution.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
     },
@@ -74,7 +74,7 @@
     },
     {
       "bullets": [
-        "Broadcasting in Highly Connected Graphs - Coauthored; published in Discrete Applied Mathematics (2025).",
+        "Broadcasting in Highly Connected Graphs - Coauthored; published in [Discrete Applied Mathematics](https://www.sciencedirect.com/science/article/pii/S0166218X25006493) (2025). ",
         "Series-Parallel and Planar Graphs for Efficient Broadcasting - Coauthored; submitted to the International Journal of Foundations of Computer Science (under review)."
       ],
       "title": "Publications \u0026 Research"
@@ -101,20 +101,20 @@
       "title": "Software Developer"
     },
     {
-      "company": "Loisirs Ste. Dorothée",
-      "description": "Led individual and group lessons for teenagers with varying skill levels, designing structured learning pathways and adapting instructional methods to student needs. Developed and coordinated a yearly piano curriculum across five sections and organized semester concerts. Strengthened communication, leadership, curriculum design, and stakeholder management skills directly transferable to team collaboration, technical mentorship, and project coordination.",
-      "duration": "2024-Present",
-      "title": "Piano Teacher \u0026 Curriculum Designer"
-    },
-    {
       "company": "Dasa2.com",
       "description": "Taught OOP, data structures, network protocols, statistics, and calculus using Python, R, and Excel. Designed real-world programming assignments emphasizing data analysis, code efficiency, and problem-solving. Provided detailed feedback on debugging, algorithmic design, and best practices.",
       "duration": "2022-Present",
       "title": "Online Mathematics and Computer Science Teacher"
     },
     {
+      "company": "Loisirs Ste. Dorothée",
+      "description": "Led individual and group lessons for teenagers with varying skill levels, designing structured learning pathways and adapting instructional methods to student needs. Developed and coordinated a yearly piano curriculum across five sections and organized semester concerts. Strengthened communication, leadership, curriculum design, and stakeholder management skills directly transferable to team collaboration, technical mentorship, and project coordination.",
+      "duration": "2024-Present",
+      "title": "Piano Teacher \u0026 Curriculum Designer"
+    },
+    {
       "company": "Concordia University",
-      "description": "Delivered over 120 combined tutorials and lab sessions on algorithms, graph theory, data structures, AI heuristics, database systems, and network protocols. Guided more than 300 students by debugging code (Python, Java, SQL). Explained algorithmic complexity and facilitated hands-on exercises in Database management, TCP/UDP networking, multithreading, and synchronization. Designed assessments, created custom test cases, and provided structured feedback. Developed strong communication, technical explanation, and mentoring skills.",
+      "description": "Delivered over 120 combined tutorials and lab sessions on algorithms, graph theory, data structures, AI heuristics, database systems, and network protocols. Guided more than 300 students by teaching algorithmic complexity, debugging code (Python, Java, SQL), and facilitating hands-on exercises in Database management, TCP/UDP networking, multithreading, and synchronization. Designed assessments, created custom test cases, and provided structured feedback. Developed strong communication, technical explanation, and mentoring skills.",
       "duration": "2021-2023",
       "title": "Teaching \u0026 Lab Assistant (Computer Science)"
     }
@@ -122,28 +122,27 @@
   "skills": {
     "competent": [
       "Java",
-      "Algorithm Design",
+      "Agile/Scrum",
       "Git",
       "Docker",
-      "NumPy",
-      "C++",
-      "Data Analysis"
+      "Power BI"
     ],
     "familiar": [
       "Machine Learning",
-      "NetworkX",
+      "C++",
       "R",
-      "MATLAB",
-      "HTML/CSS/JavaScript"
+      "HTML/CSS",
+      "JavaScript"
     ],
     "proficient": [
       "Python",
+      "Pandas/NumPy",
+      "Algorithm Design",
       "RDBMS/SQL",
       "Linux/Bash",
-      "Pandas",
-      "Excel/Power BI",
-      "Agile/Scrum"
+      "Excel",
+      "Data Analysis"
     ]
   },
-  "summary": "I am a data engineer with a strong academic background in algorithms, networks, and data processing, and I hold a Master of Computer Science from Concordia University. I have 4+ years of experience teaching computer science and mathematics, leading tutorials and labs on data structures, graph algorithms, databases, and network protocols. My interests include building reliable systems, analyzing data, and developing algorithmic solutions. I enjoy combining theory with hands-on implementation using Python, SQL, Java, and Linux. I am passionate about solving real-world problems through analytical thinking, clean software practices, and clear communication."
+  "summary": "I am a data engineer with a strong academic background in algorithms, networks, and data processing, and I hold a Master of Computer Science from Concordia University. I have 4+ years of experience teaching computer science and mathematics, leading tutorials and labs on data structures, graph algorithms, databases, and network protocols. My interests include building reliable systems, analyzing data, and developing algorithmic solutions. As a software developer at Jarvis, I combine theory with hands-on implementation using Python, SQL, Java, and Linux. I am passionate about solving real-world problems through analytical thinking, clean software practices, and clear communication."
 }
