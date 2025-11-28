@@ -1,0 +1,149 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "NSERC and FRQ research grants",
+        "GPA: 4.15/4.3"
+      ],
+      "degree": "Master of Computer Science",
+      "department": "Gina Cody School of Engineering and Computer Science",
+      "duration": "2021-2023",
+      "school_name": "Concordia University"
+    },
+    {
+      "awards_achievements": [
+        "Full academic scholarship",
+        "GPA: 3.85/4.0"
+      ],
+      "degree": "Bachelor of Computer Science",
+      "department": "Computer Science",
+      "duration": "2017-2021",
+      "school_name": "American University of Armenia"
+    },
+    {
+      "awards_achievements": [
+        "Full academic scholarship",
+        "GPA: 18.5/20"
+      ],
+      "degree": "Bachelor of Music Composition",
+      "department": "Music Composition and Theory",
+      "duration": "2017-2021",
+      "school_name": "Komitas State Conservatory"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari",
+  "highlighted_projects": [
+    {
+      "description": "Developed theoretical bounds and practical algorithms for efficient message dissemination in highly connected networks. Implemented simulations using Python, Pandas, and NetworkX, validated algorithmic performance across graph classes, and created data visualizations. Published findings in the Discrete Applied Mathematics Journal and completed as a Master's thesis.",
+      "name": "Broadcasting in Highly Connected Graphs"
+    },
+    {
+      "description": "Designed and trained Logistic Regression and RNN-based models to generate harmonic accompaniment for melodies. Collected and cleaned musical datasets, implemented preprocessing pipelines, evaluated accuracy with statistical metrics, and iteratively improved model performance. Awarded 'Best Paper' among 40+ submissions.",
+      "name": "Machine Learning Tools for Musical Harmonization"
+    },
+    {
+      "description": "Applied Ant Colony Optimization to solve Traveling Salesman and shortest-path problems. Implemented pheromone update rules, heuristic scoring, and convergence criteria using Python, NumPy, and NetworkX. Produced performance plots in Jupyter.",
+      "name": "Ant Colony Optimization for Routing"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Developed a Linux-based resource monitoring system on CentOS to collect CPU, memory, and disk usage metrics using Bash/Shell scripts and crontab. Containerized a PostgreSQL RDBMS using Docker to store host data and implemented analytical SQL queries for usage reporting and cluster health diagnostics. Followed a simplified SDLC to design, implement, test, and deploy the solution.",
+      "git_url": "/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "Designed relational schemas, created DDL tables, loaded test data, and executed analytical SQL queries using PostgreSQL. Practiced joins, aggregations, filtering logic, and string manipulation to reinforce RDBMS concepts and query optimization techniques.",
+      "git_url": "/sql",
+      "name": "SQL"
+    }
+  ],
+  "name": "Aram Khanlari",
+  "others": [
+    {
+      "bullets": [
+        "Nomination for the Concordia Teaching Excellence Awards (2023)"
+      ],
+      "title": "Awards \u0026 Recognition"
+    },
+    {
+      "bullets": [
+        "President, Graduate Research Activities Committee, Concordia University (2021-2023)"
+      ],
+      "title": "Leadership \u0026 Service"
+    },
+    {
+      "bullets": [
+        "Broadcasting in Highly Connected Graphs - Coauthored; published in Discrete Applied Mathematics (2025).",
+        "Series-Parallel and Planar Graphs for Efficient Broadcasting - Coauthored; submitted to the International Journal of Foundations of Computer Science (under review)."
+      ],
+      "title": "Publications \u0026 Research"
+    },
+    {
+      "bullets": [
+        "English (Fluent), French (Advanced), Armenian (Native), Russian (Advanced), Farsi (Basic)"
+      ],
+      "title": "Languages"
+    },
+    {
+      "bullets": [
+        "Piano performance and composition",
+        "Board games, LEGO, Jigsaw puzzles"
+      ],
+      "title": "Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Collaborated in an Agile/Scrum environment to design and deliver backend and data-focused projects. Implemented Linux/Shell automation, SQL analytics, Dockerized services, and version-controlled workflows. Gained hands-on experience with Linux/Shell, Git, Docker, and SDLC practices for real-world enterprise environments.",
+      "duration": "2025-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "Loisirs Ste. Dorothée",
+      "description": "Led individual and group lessons for teenagers with varying skill levels, designing structured learning pathways and adapting instructional methods to student needs. Developed and coordinated a yearly piano curriculum across five sections and organized semester concerts. Strengthened communication, leadership, curriculum design, and stakeholder management skills directly transferable to team collaboration, technical mentorship, and project coordination.",
+      "duration": "2024-Present",
+      "title": "Piano Teacher \u0026 Curriculum Designer"
+    },
+    {
+      "company": "Dasa2.com",
+      "description": "Taught OOP, data structures, network protocols, statistics, and calculus using Python, R, and Excel. Designed real-world programming assignments emphasizing data analysis, code efficiency, and problem-solving. Provided detailed feedback on debugging, algorithmic design, and best practices.",
+      "duration": "2022-Present",
+      "title": "Online Mathematics and Computer Science Teacher"
+    },
+    {
+      "company": "Concordia University",
+      "description": "Delivered over 120 combined tutorials and lab sessions on algorithms, graph theory, data structures, AI heuristics, database systems, and network protocols. Guided more than 300 students by debugging code (Python, Java, SQL). Explained algorithmic complexity and facilitated hands-on exercises in Database management, TCP/UDP networking, multithreading, and synchronization. Designed assessments, created custom test cases, and provided structured feedback. Developed strong communication, technical explanation, and mentoring skills.",
+      "duration": "2021-2023",
+      "title": "Teaching \u0026 Lab Assistant (Computer Science)"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Java",
+      "Algorithm Design",
+      "Git",
+      "Docker",
+      "NumPy",
+      "C++",
+      "Data Analysis"
+    ],
+    "familiar": [
+      "Machine Learning",
+      "NetworkX",
+      "R",
+      "MATLAB",
+      "HTML/CSS/JavaScript"
+    ],
+    "proficient": [
+      "Python",
+      "RDBMS/SQL",
+      "Linux/Bash",
+      "Pandas",
+      "Excel/Power BI",
+      "Agile/Scrum"
+    ]
+  },
+  "summary": "I am a data engineer with a strong academic background in algorithms, networks, and data processing, and I hold a Master of Computer Science from Concordia University. I have 4+ years of experience teaching computer science and mathematics, leading tutorials and labs on data structures, graph algorithms, databases, and network protocols. My interests include building reliable systems, analyzing data, and developing algorithmic solutions. I enjoy combining theory with hands-on implementation using Python, SQL, Java, and Linux. I am passionate about solving real-world problems through analytical thinking, clean software practices, and clear communication."
+}
