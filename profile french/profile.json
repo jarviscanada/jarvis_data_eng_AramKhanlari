@@ -1,0 +1,148 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Subventions de recherche du CRSNG et du FRQ",
+        "GPA: 4.15/4.3"
+      ],
+      "degree": "Maîtrise en Informatique (Master of Computer Science)",
+      "department": "Gina Cody School of Engineering and Computer Science",
+      "duration": "2021-2023",
+      "school_name": "Université Concordia"
+    },
+    {
+      "awards_achievements": [
+        "Bourse académique complète",
+        "GPA: 3.85/4.0"
+      ],
+      "degree": "Baccalauréat en Informatique (Bachelor of Computer Science)",
+      "department": "Informatique",
+      "duration": "2017-2021",
+      "school_name": "Université Américaine d'Arménie"
+    },
+    {
+      "awards_achievements": [
+        "Bourse académique complète",
+        "GPA: 18.5/20"
+      ],
+      "degree": "Baccalauréat en Composition Musicale",
+      "department": "Composition et Theorie Musicale",
+      "duration": "2017-2021",
+      "school_name": "Conservatoire d'État Komitas"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari",
+  "highlighted_projects": [
+    {
+      "description": "Développé des bornes théoriques et des algorithmes pratiques pour une diffusion efficace des messages dans des réseaux fortement connectés. Implémenté des simulations avec Python, Pandas et NetworkX, validé la performance algorithmique sur différentes classes de graphes et créé des visualisations de données. Publié les résultats dans le Discrete Applied Mathematics Journal ([ici](https://www.sciencedirect.com/science/article/pii/S0166218X25006493)) et publié dans le cadre d'un mémoire de maîtrise([ici](https://spectrum.library.concordia.ca/id/eprint/992648/1/Khanlari_MCompSc_F2023.pdf)).",
+      "name": "Broadcasting in Highly Connected Graphs"
+    },
+    {
+      "description": "Conçu et entraîné des modèles de régression logistique et de réseaux neuronaux récurrents (RNN) pour générer un accompagnement harmonique à partir de mélodies. Collecté et nettoyé des ensembles de données musicales, implémenté des pipelines de prétraitement, évalué la précision avec des mesures statistiques et amélioré la performance des modèles de manière itérative. Récompensé du 'Best Paper' parmi plus de 40 soumissions.",
+      "name": "Machine Learning Tools for Musical Harmonization"
+    },
+    {
+      "description": "Appliqué l'optimisation par colonies de fourmis pour résoudre les problèmes du voyageur de commerce et de plus court chemin. Implémenté des structures de réseau et distribué des fourmis comme agents. Défini les règles de mise à jour des phéromones, les heuristiques et les critères de convergence à l'aide de Python, NumPy et NetworkX. Produits des graphiques de performance et des visualisations de données dans Jupyter.",
+      "name": "Ant Colony Optimization for Routing"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Développé un système de surveillance des ressources sous Linux (Rocky) pour collecter les métriques d'utilisation du CPU, de la mémoire et du disque à l'aide de scripts Bash/Shell et de crontab. Conteneurisé une base de données relationnelle PostgreSQL avec Docker afin de stocker les données des hôtes, et mis en oeuvre des requêtes SQL analytiques pour les rapports d'utilisation et le diagnostic de l'état du cluster. Suivi un cycle de développement logiciel simplifié pour concevoir, implémenter, tester et déployer la solution.",
+      "git_url": "/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "Conçu des schémas relationnels, créé des tables DDL, chargé des données de test et exécuté des requêtes SQL analytiques avec PostgreSQL. Mis en pratique les jointures, agrégations, filtres logiques et manipulations de chaînes afin de renforcer les concepts de SGBDR et les techniques d'optimisation de requêtes.",
+      "git_url": "/sql",
+      "name": "SQL"
+    }
+  ],
+  "name": "Aram Khanlari",
+  "others": [
+    {
+      "bullets": [
+        "Nomination aux Concordia Teaching Excellence Awards (2023)"
+      ],
+      "title": "Prix et Distinctions"
+    },
+    {
+      "bullets": [
+        "Président, Graduate Research Activities Committee, Concordia University (2021-2023)"
+      ],
+      "title": "Leadership et Service"
+    },
+    {
+      "bullets": [
+        "Broadcasting in Highly Connected Graphs - Coauteur ; publié dans [Discrete Applied Mathematics](https://www.sciencedirect.com/science/article/pii/S0166218X25006493) (2025).",
+        "Series-Parallel and Planar Graphs for Efficient Broadcasting - Coauteur ; soumis au International Journal of Foundations of Computer Science (en révision)."
+      ],
+      "title": "Publications et Recherche"
+    },
+    {
+      "bullets": [
+        "Anglais (courant), Français (avancé), Arménien (langue maternelle), Russe (avancé), Farsi (débutant)"
+      ],
+      "title": "Langues"
+    },
+    {
+      "bullets": [
+        "Interprétation pianistique et composition",
+        "Jeux de société, LEGO, casse-têtes"
+      ],
+      "title": "Loisirs"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Collaboré dans un environnement Agile/Scrum pour concevoir et livrer des projets orientés backend et données. Implémenté de l'automatisation Linux/Shell, des analyses SQL, des services Dockerisés et des workflows versionnés. Acquis une expérience pratique avec Linux/Shell, Git, Docker et les pratiques SDLC dans des environnements d'entreprise réels.",
+      "duration": "2025-present",
+      "title": "Développeur Logiciel"
+    },
+    {
+      "company": "Dasa2.com",
+      "description": "Enseigné la POO, les structures de données, les protocoles réseau, les statistiques et le calcul à l'aide de Python, R et Excel. Conçu des travaux pratiques inspirés de cas réels, axés sur l'analyse de données, l'efficacité du code et la résolution de problèmes. Fournit des retours détaillés sur le débogage, la conception algorithmique et les bonnes pratiques.",
+      "duration": "2022-Present",
+      "title": "Enseignant en Mathématiques et Informatique (En ligne)"
+    },
+    {
+      "company": "Loisirs Ste. Dorothée",
+      "description": "Animé des cours individuels et en groupe pour des adolescents de niveaux variés, en concevant des parcours d'apprentissage structurés et en adaptant les méthodes pédagogiques aux besoins des élèves. Développé et coordonné un programme annuel de piano couvrant cinq sections et organisé des concerts semestriels. Renforcé des compétences en communication, leadership, conception de programmes et gestion des parties prenantes, transférables à la collaboration d'équipe, au mentorat technique et à la coordination de projets.",
+      "duration": "2024-Present",
+      "title": "Professeur de Piano et Concepteur de Programme"
+    },
+    {
+      "company": "Université Concordia",
+      "description": "Donné plus de 120 tutoriels et séances de laboratoire sur les algorithmes, la théorie des graphes, les structures de données, les heuristiques d'IA, les systèmes de bases de données et les protocoles réseau. Guidé plus de 300 étudiants en enseignant la complexité algorithmique, le débogage (Python, Java, SQL) et en animant des exercices pratiques en gestion de bases de données, réseaux TCP/UDP, multithreading et synchronisation. Conçu des évaluations, créé des jeux de tests personnalisés et fourni des retours structurés. Développé de fortes compétences en communication, vulgarisation technique et mentorat.",
+      "duration": "2021-2023",
+      "title": "Assistant d'Enseignement et de Laboratoire (Informatique)"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Java",
+      "Agile/Scrum",
+      "Git",
+      "Docker",
+      "Power BI"
+    ],
+    "familiar": [
+      "Machine Learning",
+      "C++",
+      "R",
+      "HTML/CSS",
+      "JavaScript"
+    ],
+    "proficient": [
+      "Python",
+      "Pandas/NumPy",
+      "Algorithm Design",
+      "RDBMS/SQL",
+      "Linux/Bash",
+      "Excel",
+      "Data Analysis"
+    ]
+  },
+  "summary": "Je suis ingénieur en données avec une solide formation académique en algorithmes, réseaux et traitement des données, et je détiens une maîtrise en informatique de l'Université Concordia. J'ai 4+ ans d'expérience en enseignement de l'informatique et des mathématiques, où j'ai animé des travaux pratiques et des laboratoires portant sur les structures de données, les algorithmes sur les graphes, les bases de données et les protocoles réseau. Mes intérêts portent sur la création de systèmes fiables, l'analyse de données et le développement de solutions algorithmiques. En tant que développeur logiciel chez Jarvis, je mets en pratique la théorie à travers des solutions concrètes en Python, SQL, Java et Linux. Je suis passionné par la résolution de problèmes réels grâce à une pensée analytique, à des pratiques logicielles rigoureuses et à une communication claire."
+}
