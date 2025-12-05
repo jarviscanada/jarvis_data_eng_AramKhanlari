@@ -85,4 +85,4 @@ A Recency-Frequency-Monetary (RFM) model was used to classify customers based on
   - Add churn prediction and Customer Lifetime Value (CLV) models to anticipate customer behaviour and prioritise reactivation or retention efforts.
 
 - **Automated Alerts & Recommendations**
-  - Enable the system to flag declining customers or segments and propose targeted actionse.g., win-back offers for At Risk, loyalty rewards for top customers.
+  - Enable the system to flag declining customers or segments and propose targeted actions e.g., win-back offers for At Risk, loyalty rewards for top customers.
