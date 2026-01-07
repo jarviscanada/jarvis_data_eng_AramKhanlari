@@ -2,7 +2,7 @@
 
 This project aims to solve business questions to support the growth of London Gift Shop (LGS). LGS is a UK-based online retailer specializing in wholesale giftware. Despite operating for over a decade, the shop's sales are not improving, and they want to analyze their data to make stronger business decisions.
 
-Jarvis Consulting delivered a proof of concept (PoC) to improve data processing and analysis. The team was not allowed to work in the LGS Azure environment; however, after removing sensitive information, the data was transferred to the Jarvis servers by the LGS IT team. As a Data Engineer on the Jarvis side, I extracted, transformed, and analyzed transactional data to understand patterns and segment customers. The LGS marketing team may use these analytical results - recency, frequency, monetary (RFM) scores, monthly trends, and cohort analyzes to:
+Jarvis Consulting delivered a proof of concept (PoC) to improve data processing and analysis. The team was not allowed to work in the LGS Azure environment; however, after removing sensitive information, the data was transferred to the Jarvis servers by the LGS IT team. As a Data Engineer on the Jarvis side, I extracted, transformed, and analyzed transactional data to understand patterns and segment customers. The LGS marketing team may use these analytical results - recency, frequency, monetary (RFM) scores, monthly trends, and cohort analyzes to decide marketing strategies and improve sales.
 # Implementation
 ## Project Architecture
 
