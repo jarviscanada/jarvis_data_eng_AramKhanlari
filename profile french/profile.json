@@ -26,7 +26,7 @@
         "GPA: 18.5/20"
       ],
       "degree": "Baccalauréat en Composition Musicale",
-      "department": "Composition et Theorie Musicale",
+      "department": "Composition et Théorie Musicale",
       "duration": "2017-2021",
       "school_name": "Conservatoire d'État Komitas"
     }
@@ -56,6 +56,16 @@
       "description": "Conçu des schémas relationnels, créé des tables DDL, chargé des données de test et exécuté des requêtes SQL analytiques avec PostgreSQL. Mis en pratique les jointures, agrégations, filtres logiques et manipulations de chaînes afin de renforcer les concepts de SGBDR et les techniques d'optimisation de requêtes.",
       "git_url": "/sql",
       "name": "SQL"
+    },
+    {
+      "description": "Réalisation d'une preuve de concept en analyse de données pour un détaillant en ligne britannique afin de soutenir la croissance et la prise de décision stratégique. Extraction, transformation et analyse de données transactionnelles à l'aide de Python pour identifier des tendances de vente et segmenter les clients, après anonymisation et transfert sécurisé des données vers les serveurs Jarvis. Production de visualisations, d'analyses et présentation exécutive de 10 minutes suivie d'échanges avec la direction et les pairs.",
+      "git_url": "/python_data_analytics",
+      "name": "Analyse de données Python - London Gift Shop"
+    },
+    {
+      "description": "Développement d'une application Java reproduisant le comportement de la commande Linux grep pour la recherche de chaînes de caractères dans des fichiers, en respectant une interface JavaGrep fournie. Application des concepts fondamentaux de Java dans le cadre du cycle de vie du développement logiciel (SDLC). Réalisation de tests manuels, débogage via l'IDE et utilisation optionnelle de JUnit. Déploiement de l'application via la JVM, GitHub pour le contrôle de version et Docker pour la distribution.",
+      "git_url": "/core_java",
+      "name": "Application Java Grep"
     }
   ],
   "name": "Aram Khanlari",
@@ -97,19 +107,19 @@
     {
       "company": "Jarvis",
       "description": "Collaboré dans un environnement Agile/Scrum pour concevoir et livrer des projets orientés backend et données. Implémenté de l'automatisation Linux/Shell, des analyses SQL, des services Dockerisés et des workflows versionnés. Acquis une expérience pratique avec Linux/Shell, Git, Docker et les pratiques SDLC dans des environnements d'entreprise réels.",
-      "duration": "2025-present",
+      "duration": "2025-Présent",
       "title": "Développeur Logiciel"
     },
     {
       "company": "Dasa2.com",
       "description": "Enseigné la POO, les structures de données, les protocoles réseau, les statistiques et le calcul à l'aide de Python, R et Excel. Conçu des travaux pratiques inspirés de cas réels, axés sur l'analyse de données, l'efficacité du code et la résolution de problèmes. Fournit des retours détaillés sur le débogage, la conception algorithmique et les bonnes pratiques.",
-      "duration": "2022-Present",
+      "duration": "2022-Présent",
       "title": "Enseignant en Mathématiques et Informatique (En ligne)"
     },
     {
       "company": "Loisirs Ste. Dorothée",
       "description": "Animé des cours individuels et en groupe pour des adolescents de niveaux variés, en concevant des parcours d'apprentissage structurés et en adaptant les méthodes pédagogiques aux besoins des élèves. Développé et coordonné un programme annuel de piano couvrant cinq sections et organisé des concerts semestriels. Renforcé des compétences en communication, leadership, conception de programmes et gestion des parties prenantes, transférables à la collaboration d'équipe, au mentorat technique et à la coordination de projets.",
-      "duration": "2024-Present",
+      "duration": "2024-Présent",
       "title": "Professeur de Piano et Concepteur de Programme"
     },
     {
@@ -125,11 +135,12 @@
       "Agile/Scrum",
       "Git",
       "Docker",
-      "Power BI"
+      "Power BI",
+      "Machine Learning"
     ],
     "familiar": [
-      "Machine Learning",
       "C++",
+      "C#",
       "R",
       "HTML/CSS",
       "JavaScript"

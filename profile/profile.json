@@ -56,6 +56,16 @@
       "description": "Designed relational schemas, created DDL tables, loaded test data, and executed analytical SQL queries using PostgreSQL. Practiced joins, aggregations, filtering logic, and string manipulation to reinforce RDBMS concepts and query optimization techniques.",
       "git_url": "/sql",
       "name": "SQL"
+    },
+    {
+      "description": "Delivered a data analytics proof of concept for a UK-based online retailer to support business growth and decision-making. Extracted, transformed, and analyzed transactional data using Python to identify sales patterns and perform customer segmentation after sensitive data was sanitized and transferred to Jarvis servers. Produced insights, visualizations, and presented a 10-minute executive summary, followed by feedback and discussion with leadership and peers.",
+      "git_url": "/python_data_analytics",
+      "name": "Python Data Analytics - London Gift Shop"
+    },
+    {
+      "description": "Developed a Java application that mimics the Linux grep command to search matching strings within files, following a provided JavaGrep interface. Applied core Java concepts as part of the SDLC, including design, implementation, testing, and deployment. Performed manual testing, debugging via IDE tools, and optional JUnit tests. Packaged and distributed the application using the JVM, GitHub for source control, and Docker for deployment.",
+      "git_url": "/core_java",
+      "name": "Java Grep Application"
     }
   ],
   "name": "Aram Khanlari",
@@ -97,7 +107,7 @@
     {
       "company": "Jarvis",
       "description": "Collaborated in an Agile/Scrum environment to design and deliver backend and data-focused projects. Implemented Linux/Shell automation, SQL analytics, Dockerized services, and version-controlled workflows. Gained hands-on experience with Linux/Shell, Git, Docker, and SDLC practices for real-world enterprise environments.",
-      "duration": "2025-present",
+      "duration": "2025-Present",
       "title": "Software Developer"
     },
     {
@@ -114,7 +124,7 @@
     },
     {
       "company": "Concordia University",
-      "description": "Delivered over 120 combined tutorials and lab sessions on algorithms, graph theory, data structures, AI heuristics, database systems, and network protocols. Guided more than 300 students by teaching algorithmic complexity, debugging code (Python, Java, SQL), and facilitating hands-on exercises in Database management, TCP/UDP networking, multithreading, and synchronization. Designed assessments, created custom test cases, and provided structured feedback. Developed strong communication, technical explanation, and mentoring skills.",
+      "description": "Delivered over 120 combined tutorials and lab sessions on algorithms, graph theory, data structures, AI heuristics, database systems, and network protocols. Guided more than 300 students by teaching algorithmic complexity, debugging code (Python, Java, SQL), and facilitating hands-on exercises in database management, TCP/UDP networking, multithreading, and synchronization. Designed assessments, created custom test cases, and provided structured feedback. Developed strong communication, technical explanation, and mentoring skills.",
       "duration": "2021-2023",
       "title": "Teaching \u0026 Lab Assistant (Computer Science)"
     }
@@ -125,11 +135,12 @@
       "Agile/Scrum",
       "Git",
       "Docker",
-      "Power BI"
+      "Power BI",
+      "Machine Learning"
     ],
     "familiar": [
-      "Machine Learning",
       "C++",
+      "C#",
       "R",
       "HTML/CSS",
       "JavaScript"
