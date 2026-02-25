@@ -1,12 +1,12 @@
 # Aram Khanlari . Jarvis Consulting
 
-I am a data engineer with a strong academic background in algorithms, networks, and data processing, and I hold a Master of Computer Science from Concordia University. I have 4+ years of experience teaching computer science and mathematics, leading tutorials and labs on data structures, graph algorithms, databases, and network protocols. My interests include building reliable systems, analyzing data, and developing algorithmic solutions. As a software developer at Jarvis, I combine theory with hands-on implementation using Python, SQL, Java, and Linux. I am passionate about solving real-world problems through analytical thinking, clean software practices, and clear communication.
+Je suis ingénieur en données avec une solide formation académique en algorithmes, réseaux et traitement des données, et je détiens une maîtrise en informatique de l'Université Concordia. J'ai 4+ ans d'expérience en enseignement de l'informatique et des mathématiques, où j'ai animé des travaux pratiques et des laboratoires portant sur les structures de données, les algorithmes sur les graphes, les bases de données et les protocoles réseau. Mes intérêts portent sur la création de systèmes fiables, l'analyse de données et le développement de solutions algorithmiques. En tant que développeur logiciel chez Jarvis, je mets en pratique la théorie à travers des solutions concrètes en Databricks, Python, SQL, Java et Linux. Je suis passionné par la résolution de problèmes réels grâce à une pensée analytique, à des pratiques logicielles rigoureuses et à une communication claire.
 
 ## Skills
 
 **Proficient:** Python, Pandas/NumPy, Algorithm Design, RDBMS/SQL, Linux/Bash, Excel, Data Analysis
 
-**Competent:** Java, Agile/Scrum, Git, Docker, Power BI, Machine Learning
+**Competent:** Java, Databricks, PySpark, Agile/Scrum, Git, Docker, Power BI, Machine Learning
 
 **Familiar:** C++, C#, R, HTML/CSS, JavaScript
 
@@ -15,53 +15,57 @@ I am a data engineer with a strong academic background in algorithms, networks, 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/linux_sql)]: Developed a Linux-based resource monitoring system on Rocky to collect CPU, memory, and disk usage metrics using Bash/Shell scripts and crontab. Containerized a PostgreSQL RDBMS using Docker to store host data and implemented analytical SQL queries for usage reporting and cluster health diagnostics. Followed a simplified SDLC to design, implement, test, and deploy the solution.
+**Analyse de données Python - London Gift Shop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/python_data_analytics)]: Réalisation d'une preuve de concept en analyse de données pour un détaillant en ligne britannique afin de soutenir la croissance et la prise de décision stratégique. Extraction, transformation et analyse de données transactionnelles à l'aide de Python pour identifier des tendances de vente et segmenter les clients, après anonymisation et transfert sécurisé des données vers les serveurs Jarvis. Production de visualisations, d'analyses et présentation exécutive de 10 minutes suivie d'échanges avec la direction et les pairs.
 
-**SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/sql)]: Designed relational schemas, created DDL tables, loaded test data, and executed analytical SQL queries using PostgreSQL. Practiced joins, aggregations, filtering logic, and string manipulation to reinforce RDBMS concepts and query optimization techniques.
+**ETL pipeline in Databricks** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/databricks)]: Analysé plus de 10 ans de données de transactions par carte de crédit afin de détecter des schémas de fraude, des anomalies comportementales et des tendances de risque à long terme. Conçu et mis en oeuvre un pipeline de données évolutif basé sur l'architecture Medallion (couches Bronze, Silver, Gold) pour ingérer les données brutes, effectuer le nettoyage et la validation, et produire des ensembles de données prêts pour l'analyse. Exploité des environnements de traitement distribué afin de gérer efficacement de grands volumes de données et d'assurer la fiabilité des traitements. Automatisé des flux de travail de bout en bout pour optimiser l'ingestion, la transformation et les cycles de mise à jour planifiés. Intégré le pipeline à des tableaux de bord dynamiques mettant automatiquement à jour les visualisations et les indicateurs clés de performance. Formulé et affiné des questions analytiques afin de générer des insights exploitables soutenant les stratégies de détection de fraude et de gestion des risques.
 
-**Python Data Analytics - London Gift Shop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/python_data_analytics)]: Delivered a data analytics proof of concept for a UK-based online retailer to support business growth and decision-making. Extracted, transformed, and analyzed transactional data using Python to identify sales patterns and perform customer segmentation after sensitive data was sanitized and transferred to Jarvis servers. Produced insights, visualizations, and presented a 10-minute executive summary, followed by feedback and discussion with leadership and peers.
+**Pyspark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/spark)]: Spécialisé dans Apache PySpark au sein d'environnements de traitement de données distribués. Refonte et mise à l'échelle de flux de travail d'analyse de données initialement conçus pour une seule machine, afin de les adapter à des ensembles de données plus volumineux et à des environnements proches de la production. Implémentation réalisée avec Databricks et Zeppelin en utilisant les API structurées de Spark (DataFrames et SQL) pour nettoyer les données, effectuer des agrégations et générer efficacement des analyses exploitables.
 
-**Java Grep Application** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/core_java)]: Developed a Java application that mimics the Linux grep command to search matching strings within files, following a provided JavaGrep interface. Applied core Java concepts as part of the SDLC, including design, implementation, testing, and deployment. Performed manual testing, debugging via IDE tools, and optional JUnit tests. Packaged and distributed the application using the JVM, GitHub for source control, and Docker for deployment.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/linux_sql)]: Développé un système de surveillance des ressources sous Linux (Rocky) pour collecter les métriques d'utilisation du CPU, de la mémoire et du disque à l'aide de scripts Bash/Shell et de crontab. Conteneurisé une base de données relationnelle PostgreSQL avec Docker afin de stocker les données des hôtes, et mis en oeuvre des requêtes SQL analytiques pour les rapports d'utilisation et le diagnostic de l'état du cluster. Suivi un cycle de développement logiciel simplifié pour concevoir, implémenter, tester et déployer la solution.
+
+**SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/sql)]: Conçu des schémas relationnels, créé des tables DDL, chargé des données de test et exécuté des requêtes SQL analytiques avec PostgreSQL. Mis en pratique les jointures, agrégations, filtres logiques et manipulations de chaînes afin de renforcer les concepts de SGBDR et les techniques d'optimisation de requêtes.
+
+**Application Java Grep** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari/tree/master/core_java)]: Développement d'une application Java reproduisant le comportement de la commande Linux grep pour la recherche de chaînes de caractères dans des fichiers, en respectant une interface JavaGrep fournie. Application des concepts fondamentaux de Java dans le cadre du cycle de vie du développement logiciel (SDLC). Réalisation de tests manuels, débogage via l'IDE et utilisation optionnelle de JUnit. Déploiement de l'application via la JVM, GitHub pour le contrôle de version et Docker pour la distribution.
 
 
 ## Highlighted Projects
-**Broadcasting in Highly Connected Graphs**: Developed theoretical bounds and practical algorithms for efficient message dissemination in highly connected networks. Implemented simulations using Python, Pandas, and NetworkX, validated algorithmic performance across graph classes, and created data visualizations. Published findings in the Discrete Applied Mathematics Journal ([here](https://www.sciencedirect.com/science/article/pii/S0166218X25006493)) and completed as a Master's thesis.([here](https://spectrum.library.concordia.ca/id/eprint/992648/1/Khanlari_MCompSc_F2023.pdf))
+**Broadcasting in Highly Connected Graphs**: Développé des bornes théoriques et des algorithmes pratiques pour une diffusion efficace des messages dans des réseaux fortement connectés. Implémenté des simulations avec Python, Pandas et NetworkX, validé la performance algorithmique sur différentes classes de graphes et créé des visualisations de données. Publié les résultats dans le Discrete Applied Mathematics Journal ([ici](https://www.sciencedirect.com/science/article/pii/S0166218X25006493)) et publié dans le cadre d'un mémoire de maîtrise([ici](https://spectrum.library.concordia.ca/id/eprint/992648/1/Khanlari_MCompSc_F2023.pdf)).
 
-**Machine Learning Tools for Musical Harmonization**: Designed and trained Logistic Regression and RNN-based models to generate harmonic accompaniment for melodies. Collected and cleaned musical datasets, implemented preprocessing pipelines, evaluated accuracy with statistical metrics, and iteratively improved model performance. Awarded 'Best Paper' among 40+ submissions.
+**Machine Learning Tools for Musical Harmonization**: Conçu et entraîné des modèles de régression logistique et de réseaux neuronaux récurrents (RNN) pour générer un accompagnement harmonique à partir de mélodies. Collecté et nettoyé des ensembles de données musicales, implémenté des pipelines de prétraitement, évalué la précision avec des mesures statistiques et amélioré la performance des modèles de manière itérative. Récompensé du 'Best Paper' parmi plus de 40 soumissions.
 
-**Ant Colony Optimization for Routing**: Applied Ant Colony Optimization to solve Traveling Salesman and shortest-path problems. Implemented network structures and distributed ants as agents. Defined pheromone update rules, heuristic scoring, and convergence criteria using Python, NumPy, and NetworkX. Produced performance plots and data visuals in Jupyter.
+**Ant Colony Optimization for Routing**: Appliqué l'optimisation par colonies de fourmis pour résoudre les problèmes du voyageur de commerce et de plus court chemin. Implémenté des structures de réseau et distribué des fourmis comme agents. Défini les règles de mise à jour des phéromones, les heuristiques et les critères de convergence à l'aide de Python, NumPy et NetworkX. Produits des graphiques de performance et des visualisations de données dans Jupyter.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2025-Present)**: Collaborated in an Agile/Scrum environment to design and deliver backend and data-focused projects. Implemented Linux/Shell automation, SQL analytics, Dockerized services, and version-controlled workflows. Gained hands-on experience with Linux/Shell, Git, Docker, and SDLC practices for real-world enterprise environments.
+**Développeur Logiciel, Jarvis (2025-Présent)**: Collaboré dans un environnement Agile/Scrum pour concevoir et livrer des projets orientés backend et données. Développé des projets avec Databricks et Apache Spark, analysant des données et générant des visualisations. Implémenté de l'automatisation Linux/Shell, des analyses SQL, des services Dockerisés et des workflows versionnés. Acquis une expérience pratique avec Linux/Shell, Git, Docker et les pratiques SDLC dans des environnements d'entreprise réels.
 
-**Online Mathematics & Computer Science Teacher, Dasa2.com (2022-Present)**: Taught OOP, data structures, network protocols, statistics, and calculus using Python, R, and Excel. Designed real-world programming assignments emphasizing data analysis, code efficiency, and problem-solving. Provided detailed feedback on debugging, algorithmic design, and best practices.
+**Enseignant en Mathématiques et Informatique (En ligne), Dasa2.com (2022-Présent)**: Enseigné la POO, les structures de données, les protocoles réseau, les statistiques et le calcul à l'aide de Python, R et Excel. Conçu des travaux pratiques inspirés de cas réels, axés sur l'analyse de données, l'efficacité du code et la résolution de problèmes. Fournit des retours détaillés sur le débogage, la conception algorithmique et les bonnes pratiques.
 
-**Piano Teacher & Curriculum Designer, Loisirs Ste. Dorothée (2024-Present)**: Led individual and group lessons for teenagers with varying skill levels, designing structured learning pathways and adapting instructional methods to student needs. Developed and coordinated a yearly piano curriculum across five sections and organized semester concerts. Strengthened communication, leadership, curriculum design, and stakeholder management skills directly transferable to team collaboration, technical mentorship, and project coordination.
+**Professeur de Piano et Concepteur de Programme, Loisirs Ste. Dorothée (2024-Présent)**: Animé des cours individuels et en groupe pour des adolescents de niveaux variés, en concevant des parcours d'apprentissage structurés et en adaptant les méthodes pédagogiques aux besoins des élèves. Développé et coordonné un programme annuel de piano couvrant cinq sections et organisé des concerts semestriels. Renforcé des compétences en communication, leadership, conception de programmes et gestion des parties prenantes, transférables à la collaboration d'équipe, au mentorat technique et à la coordination de projets.
 
-**Teaching & Lab Assistant (Computer Science), Concordia University (2021-2023)**: Delivered over 120 combined tutorials and lab sessions on algorithms, graph theory, data structures, AI heuristics, database systems, and network protocols. Guided more than 300 students by teaching algorithmic complexity, debugging code (Python, Java, SQL), and facilitating hands-on exercises in database management, TCP/UDP networking, multithreading, and synchronization. Designed assessments, created custom test cases, and provided structured feedback. Developed strong communication, technical explanation, and mentoring skills.
+**Assistant d'Enseignement et de Laboratoire (Informatique), Université Concordia (2021-2023)**: Donné plus de 120 tutoriels et séances de laboratoire sur les algorithmes, la théorie des graphes, les structures de données, les heuristiques d'IA, les systèmes de bases de données et les protocoles réseau. Guidé plus de 300 étudiants en enseignant la complexité algorithmique, le débogage (Python, Java, SQL) et en animant des exercices pratiques en gestion de bases de données, réseaux TCP/UDP, multithreading et synchronisation. Conçu des évaluations, créé des jeux de tests personnalisés et fourni des retours structurés. Développé de fortes compétences en communication, vulgarisation technique et mentorat.
 
 
 ## Education
-**Concordia University (2021-2023)**, Master of Computer Science, Gina Cody School of Engineering and Computer Science
-- NSERC and FRQ research grants
+**Université Concordia (2021-2023)**, Maîtrise en Informatique (Master of Computer Science), Gina Cody School of Engineering and Computer Science
+- Subventions de recherche du CRSNG et du FRQ
 - GPA: 4.15/4.3
 
-**American University of Armenia (2017-2021)**, Bachelor of Computer Science, Computer Science
-- Full academic scholarship
+**Université Américaine d'Arménie (2017-2021)**, Baccalauréat en Informatique (Bachelor of Computer Science), Informatique
+- Bourse académique complète
 - GPA: 3.85/4.0
 
-**Komitas State Conservatory (2017-2021)**, Bachelor of Music Composition, Music Composition and Theory
-- Full academic scholarship
+**Conservatoire d'État Komitas (2017-2021)**, Baccalauréat en Composition Musicale, Composition et Théorie Musicale
+- Bourse académique complète
 - GPA: 18.5/20
 
 
 ## Miscellaneous
-- Nomination for the Concordia Teaching Excellence Awards (2023)
-- President, Graduate Research Activities Committee, Concordia University (2021-2023)
-- Broadcasting in Highly Connected Graphs - Coauthored; published in [Discrete Applied Mathematics](https://www.sciencedirect.com/science/article/pii/S0166218X25006493) (2025). 
-- Series-Parallel and Planar Graphs for Efficient Broadcasting - Coauthored; submitted to the International Journal of Foundations of Computer Science (under review).
-- English (Fluent), French (Advanced), Armenian (Native), Russian (Advanced), Farsi (Basic)
-- Piano performance and composition
-- Board games, LEGO, Jigsaw puzzles
+- Nomination aux Concordia Teaching Excellence Awards (2023)
+- Président, Graduate Research Activities Committee, Concordia University (2021-2023)
+- Broadcasting in Highly Connected Graphs - Coauteur ; publié dans [Discrete Applied Mathematics](https://www.sciencedirect.com/science/article/pii/S0166218X25006493) (2025).
+- Series-Parallel and Planar Graphs for Efficient Broadcasting - Coauteur ; soumis au International Journal of Foundations of Computer Science (en révision).
+- Anglais (courant), Français (avancé), Arménien (langue maternelle), Russe (avancé), Farsi (débutant)
+- Interprétation pianistique et composition
+- Jeux de société, LEGO, casse-têtes

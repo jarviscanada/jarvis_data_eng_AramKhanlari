@@ -5,7 +5,7 @@ name: "Aram Khanlari"
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_AramKhanlari
 
 # Introduce yourself (80-120 words)
-summary: "I am a data engineer with a strong academic background in algorithms, networks, and data processing, and I hold a Master of Computer Science from Concordia University. I have 4+ years of experience teaching computer science and mathematics, leading tutorials and labs on data structures, graph algorithms, databases, and network protocols. My interests include building reliable systems, analyzing data, and developing algorithmic solutions. As a software developer at Jarvis, I combine theory with hands-on implementation using Python, SQL, Java, and Linux. I am passionate about solving real-world problems through analytical thinking, clean software practices, and clear communication."
+summary: "I am a data engineer with a strong academic background in algorithms, networks, and data processing, and I hold a Master of Computer Science from Concordia University. I have 4+ years of experience teaching computer science and mathematics, leading tutorials and labs on data structures, graph algorithms, databases, and network protocols. My interests include building reliable systems, analyzing data, and developing algorithmic solutions. As a software developer at Jarvis, I combine theory with hands-on implementation using Databricks, Python, SQL, Java, and Linux. I am passionate about solving real-world problems through analytical thinking, clean software practices, and clear communication."
 
 # Skills
 skills:
@@ -20,10 +20,12 @@ skills:
 
   competent:
     - Java
+    - Databricks
+    - PySpark
+    - Power BI
     - Agile/Scrum
     - Git
     - Docker
-    - Power BI
     - Machine Learning
 
   familiar:
@@ -35,6 +37,22 @@ skills:
 
 # Jarvis projects
 jarvis_projects:
+  - name: "Python Data Analytics - London Gift Shop"
+    git_url: "/python_data_analytics"
+    description: "Delivered a data analytics proof of concept for a UK-based online retailer to support business growth and decision-making. Extracted, transformed, and analyzed transactional data using Python to identify sales patterns and perform customer segmentation after sensitive data was sanitized and transferred to Jarvis servers. Produced insights, visualizations, and presented a 10-minute executive summary, followed by feedback and discussion with leadership and peers."
+
+  - name: "ETL pipeline in Databricks"
+    git_url: "/databricks"
+    description: "Analyzed over 10 years of credit card transaction data to detect fraud patterns, behavioral anomalies, and long-term risk trends. Designed and implemented a scalable data pipeline using the Medallion architecture (Bronze, Silver, Gold layers) to ingest raw data, perform cleansing and validation, and produce analytics-ready datasets. Leveraged distributed processing frameworks to handle large-scale datasets efficiently and ensure reliability across environments. Automated data workflows to streamline ingestion, transformation, and scheduled refresh cycles. Integrated the pipeline with dynamic dashboards that automatically updated visualizations and key performance indicators. Generated and refined analytical questions to uncover actionable insights that informed fraud detection strategies and risk mitigation efforts."
+
+  - name: "Pyspark"
+    git_url: "/spark"
+    description: "Focused on Apache PySpark in distributed data processing environments. Rebuilt and scaled data analytics workflows that would normally run on a single machine, and made them suitable for larger datasets and production-like setups. Implemented using both Databricks and Zeppelin using Spark's structured APIs (DataFrames and SQL) to clean data, perform aggregations, and generate analytical insights efficiently."
+
+  - name: "Java Grep Application"
+    git_url: "/core_java"
+    description: "Developed a Java application that mimics the Linux grep command to search matching strings within files, following a provided JavaGrep interface. Applied core Java concepts as part of the SDLC, including design, implementation, testing, and deployment. Performed manual testing, debugging via IDE tools, and optional JUnit tests. Packaged and distributed the application using the JVM, GitHub for source control, and Docker for deployment."
+
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
     description: "Developed a Linux-based resource monitoring system on Rocky to collect CPU, memory, and disk usage metrics using Bash/Shell scripts and crontab. Containerized a PostgreSQL RDBMS using Docker to store host data and implemented analytical SQL queries for usage reporting and cluster health diagnostics. Followed a simplified SDLC to design, implement, test, and deploy the solution."
@@ -42,14 +60,6 @@ jarvis_projects:
   - name: "SQL"
     git_url: "/sql"
     description: "Designed relational schemas, created DDL tables, loaded test data, and executed analytical SQL queries using PostgreSQL. Practiced joins, aggregations, filtering logic, and string manipulation to reinforce RDBMS concepts and query optimization techniques."
-
-  - name: "Python Data Analytics - London Gift Shop"
-    git_url: "/python_data_analytics"
-    description: "Delivered a data analytics proof of concept for a UK-based online retailer to support business growth and decision-making. Extracted, transformed, and analyzed transactional data using Python to identify sales patterns and perform customer segmentation after sensitive data was sanitized and transferred to Jarvis servers. Produced insights, visualizations, and presented a 10-minute executive summary, followed by feedback and discussion with leadership and peers."
-
-  - name: "Java Grep Application"
-    git_url: "/core_java"
-    description: "Developed a Java application that mimics the Linux grep command to search matching strings within files, following a provided JavaGrep interface. Applied core Java concepts as part of the SDLC, including design, implementation, testing, and deployment. Performed manual testing, debugging via IDE tools, and optional JUnit tests. Packaged and distributed the application using the JVM, GitHub for source control, and Docker for deployment."
 
 # Highlighted academic/personal projects
 highlighted_projects:
@@ -67,7 +77,7 @@ professional_experience:
   - title: "Software Developer"
     company: "Jarvis"
     duration: "2025-Present"
-    description: "Collaborated in an Agile/Scrum environment to design and deliver backend and data-focused projects. Implemented Linux/Shell automation, SQL analytics, Dockerized services, and version-controlled workflows. Gained hands-on experience with Linux/Shell, Git, Docker, and SDLC practices for real-world enterprise environments."
+    description: "Collaborated in an Agile/Scrum environment to design and deliver backend and data-focused projects. Developed projects in Databricks and Apache Spark analysing data and generating visualizations. Implemented Linux/Shell automation, SQL analytics, Dockerized services, and version-controlled workflows. Gained hands-on experience with Linux/Shell, Git, Docker, and SDLC practices for real-world enterprise environments."
 
   - title: "Online Mathematics & Computer Science Teacher"
     company: "Dasa2.com"
