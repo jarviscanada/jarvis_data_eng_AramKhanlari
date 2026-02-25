@@ -48,6 +48,21 @@
   ],
   "jarvis_projects": [
     {
+      "description": "Réalisation d'une preuve de concept en analyse de données pour un détaillant en ligne britannique afin de soutenir la croissance et la prise de décision stratégique. Extraction, transformation et analyse de données transactionnelles à l'aide de Python pour identifier des tendances de vente et segmenter les clients, après anonymisation et transfert sécurisé des données vers les serveurs Jarvis. Production de visualisations, d'analyses et présentation exécutive de 10 minutes suivie d'échanges avec la direction et les pairs.",
+      "git_url": "/python_data_analytics",
+      "name": "Analyse de données Python - London Gift Shop"
+    },
+    {
+      "description": "Analysé plus de 10 ans de données de transactions par carte de crédit afin de détecter des schémas de fraude, des anomalies comportementales et des tendances de risque à long terme. Conçu et mis en oeuvre un pipeline de données évolutif basé sur l'architecture Medallion (couches Bronze, Silver, Gold) pour ingérer les données brutes, effectuer le nettoyage et la validation, et produire des ensembles de données prêts pour l'analyse. Exploité des environnements de traitement distribué afin de gérer efficacement de grands volumes de données et d'assurer la fiabilité des traitements. Automatisé des flux de travail de bout en bout pour optimiser l'ingestion, la transformation et les cycles de mise à jour planifiés. Intégré le pipeline à des tableaux de bord dynamiques mettant automatiquement à jour les visualisations et les indicateurs clés de performance. Formulé et affiné des questions analytiques afin de générer des insights exploitables soutenant les stratégies de détection de fraude et de gestion des risques.",
+      "git_url": "/databricks",
+      "name": "ETL pipeline in Databricks"
+    },
+    {
+      "description": "Spécialisé dans Apache PySpark au sein d'environnements de traitement de données distribués. Refonte et mise à l'échelle de flux de travail d'analyse de données initialement conçus pour une seule machine, afin de les adapter à des ensembles de données plus volumineux et à des environnements proches de la production. Implémentation réalisée avec Databricks et Zeppelin en utilisant les API structurées de Spark (DataFrames et SQL) pour nettoyer les données, effectuer des agrégations et générer efficacement des analyses exploitables.",
+      "git_url": "/spark",
+      "name": "Pyspark"
+    },
+    {
       "description": "Développé un système de surveillance des ressources sous Linux (Rocky) pour collecter les métriques d'utilisation du CPU, de la mémoire et du disque à l'aide de scripts Bash/Shell et de crontab. Conteneurisé une base de données relationnelle PostgreSQL avec Docker afin de stocker les données des hôtes, et mis en oeuvre des requêtes SQL analytiques pour les rapports d'utilisation et le diagnostic de l'état du cluster. Suivi un cycle de développement logiciel simplifié pour concevoir, implémenter, tester et déployer la solution.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
@@ -56,11 +71,6 @@
       "description": "Conçu des schémas relationnels, créé des tables DDL, chargé des données de test et exécuté des requêtes SQL analytiques avec PostgreSQL. Mis en pratique les jointures, agrégations, filtres logiques et manipulations de chaînes afin de renforcer les concepts de SGBDR et les techniques d'optimisation de requêtes.",
       "git_url": "/sql",
       "name": "SQL"
-    },
-    {
-      "description": "Réalisation d'une preuve de concept en analyse de données pour un détaillant en ligne britannique afin de soutenir la croissance et la prise de décision stratégique. Extraction, transformation et analyse de données transactionnelles à l'aide de Python pour identifier des tendances de vente et segmenter les clients, après anonymisation et transfert sécurisé des données vers les serveurs Jarvis. Production de visualisations, d'analyses et présentation exécutive de 10 minutes suivie d'échanges avec la direction et les pairs.",
-      "git_url": "/python_data_analytics",
-      "name": "Analyse de données Python - London Gift Shop"
     },
     {
       "description": "Développement d'une application Java reproduisant le comportement de la commande Linux grep pour la recherche de chaînes de caractères dans des fichiers, en respectant une interface JavaGrep fournie. Application des concepts fondamentaux de Java dans le cadre du cycle de vie du développement logiciel (SDLC). Réalisation de tests manuels, débogage via l'IDE et utilisation optionnelle de JUnit. Déploiement de l'application via la JVM, GitHub pour le contrôle de version et Docker pour la distribution.",
@@ -106,7 +116,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Collaboré dans un environnement Agile/Scrum pour concevoir et livrer des projets orientés backend et données. Implémenté de l'automatisation Linux/Shell, des analyses SQL, des services Dockerisés et des workflows versionnés. Acquis une expérience pratique avec Linux/Shell, Git, Docker et les pratiques SDLC dans des environnements d'entreprise réels.",
+      "description": "Collaboré dans un environnement Agile/Scrum pour concevoir et livrer des projets orientés backend et données. Développé des projets avec Databricks et Apache Spark, analysant des données et générant des visualisations. Implémenté de l'automatisation Linux/Shell, des analyses SQL, des services Dockerisés et des workflows versionnés. Acquis une expérience pratique avec Linux/Shell, Git, Docker et les pratiques SDLC dans des environnements d'entreprise réels.",
       "duration": "2025-Présent",
       "title": "Développeur Logiciel"
     },
@@ -132,6 +142,8 @@
   "skills": {
     "competent": [
       "Java",
+      "Databricks",
+      "PySpark",
       "Agile/Scrum",
       "Git",
       "Docker",
@@ -155,5 +167,5 @@
       "Data Analysis"
     ]
   },
-  "summary": "Je suis ingénieur en données avec une solide formation académique en algorithmes, réseaux et traitement des données, et je détiens une maîtrise en informatique de l'Université Concordia. J'ai 4+ ans d'expérience en enseignement de l'informatique et des mathématiques, où j'ai animé des travaux pratiques et des laboratoires portant sur les structures de données, les algorithmes sur les graphes, les bases de données et les protocoles réseau. Mes intérêts portent sur la création de systèmes fiables, l'analyse de données et le développement de solutions algorithmiques. En tant que développeur logiciel chez Jarvis, je mets en pratique la théorie à travers des solutions concrètes en Python, SQL, Java et Linux. Je suis passionné par la résolution de problèmes réels grâce à une pensée analytique, à des pratiques logicielles rigoureuses et à une communication claire."
+  "summary": "Je suis ingénieur en données avec une solide formation académique en algorithmes, réseaux et traitement des données, et je détiens une maîtrise en informatique de l'Université Concordia. J'ai 4+ ans d'expérience en enseignement de l'informatique et des mathématiques, où j'ai animé des travaux pratiques et des laboratoires portant sur les structures de données, les algorithmes sur les graphes, les bases de données et les protocoles réseau. Mes intérêts portent sur la création de systèmes fiables, l'analyse de données et le développement de solutions algorithmiques. En tant que développeur logiciel chez Jarvis, je mets en pratique la théorie à travers des solutions concrètes en Databricks, Python, SQL, Java et Linux. Je suis passionné par la résolution de problèmes réels grâce à une pensée analytique, à des pratiques logicielles rigoureuses et à une communication claire."
 }
